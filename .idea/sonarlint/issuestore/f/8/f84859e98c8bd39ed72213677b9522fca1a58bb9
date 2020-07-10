@@ -1,0 +1,47 @@
+
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(Ðö¢äýÿÿÿÿ8™ª‰Ã³.
+b
+java:S2147g"ECombine this catch with the one at line 101, which has the same body.(Ë‡…¨8ž’æÃ³.
+f
+java:S2147."DCombine this catch with the one at line 44, which has the same body.(½å€ùûÿÿÿÿ8™ª‰Ã³.
+b
+java:S2147i"ECombine this catch with the one at line 101, which has the same body.(çÞ¡Ð8ž’æÃ³.
+7
+java:S1220""Move this file to a named package.8™ª‰Ã³.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ùóâÃ³.
+f
+java:S2147W"DCombine this catch with the one at line 77, which has the same body.(ÐÐ¹óúÿÿÿÿ8™ª‰Ã³.
+g
+java:S2147k"ECombine this catch with the one at line 101, which has the same body.(©Ë¸Ãþÿÿÿÿ8ž’æÃ³.
+W
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Îå¨²8™ª‰Ã³.
+a
+java:S2147@"DCombine this catch with the one at line 60, which has the same body.(ï­£Ä8›ÖÃ³.
+f
+java:S2147S"DCombine this catch with the one at line 77, which has the same body.(©Ë¸Ãþÿÿÿÿ8™ª‰Ã³.
+f
+java:S2147U"DCombine this catch with the one at line 77, which has the same body.(“³ÛÝüÿÿÿÿ8™ª‰Ã³.
+V
+java:S4719d"9Replace charset name argument with StandardCharsets.UTF_8(Ç ÁÉ8ž’æÃ³.
+a
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(Ë‡…¨8™ª‰Ã³.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(Ç ÁÉ8ž’æÃ³.
+[
+java:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(Ðö¢äýÿÿÿÿ8™ª‰Ã³.
+g
+java:S2147o"ECombine this catch with the one at line 101, which has the same body.(ÐÐ¹óúÿÿÿÿ8ž’æÃ³.
+a
+java:S21470"DCombine this catch with the one at line 44, which has the same body.(ï­£Ä8±äÜÃ³.
+a
+java:S2147Q"DCombine this catch with the one at line 77, which has the same body.(çÞ¡Ð8™ª‰Ã³.
+f
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(½å€ùûÿÿÿÿ8™ª‰Ã³.
+b
+java:S2147z"ECombine this catch with the one at line 120, which has the same body.(ï­£Ä8™ª‰Ã³.
+g
+java:S2147m"ECombine this catch with the one at line 101, which has the same body.(“³ÛÝüÿÿÿÿ8ž’æÃ³.
+c
+java:S2147„"ECombine this catch with the one at line 130, which has the same body.(ï­£Ä8ŠŽÈÃ³.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ùóâÃ³.
